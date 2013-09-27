@@ -1,0 +1,56 @@
+GET /id/petisi/dinas-pendidikan-jember-kejaksaan-negeri-jember-jawa-timur-dalam-kasus-korupsi-laptop-rp-9-milyar-guru-jangan-dikorbankan HTTP/1.1
+Ket : menerima data dari server 
+================================================================================================================ 
+Host: www.change.org
+Ket : alamat web yang dituju
+================================================================================================================
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:20.0) Gecko/20100101 Firefox/20.0
+Ket : Komputer client menggunakan mozila firefox/20.0
+================================================================================================================
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Ket : web bisa menerima dengan bahasa text/html dll
+================================================================================================================
+Accept-Language: en-US,en;q=0.5
+Ket : web bisa menerima bahasa inggris
+================================================================================================================
+Accept-Encoding: gzip, deflate
+Referer: http://www.change.org/id/petisi/dinas-pendidikan-jember-kejaksaan-negeri-jember-jawa-timur-dalam-kasus-korupsi-laptop-rp-9-milyar-guru-jangan-dikorbankan
+Cookie: YPF8827340282Jdskjhfiw_928937459182JAX666=118.97.95.182; DOAReferrer=http%3A//www.google.com/url%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D5%26cad%3Drja%26ved%3D0CEoQFjAE%26url%3Dhttp%253A%252F%252Fwww.change.org%252Fid%252Fpetisi%252Fdinas-pendidikan-jember-kejaksaan-negeri-jember-jawa-timur-dalam-kasus-korupsi-laptop-rp-9-milyar-guru-jangan-dikorbankan%26ei%3DDvZCUqbOKoOmrQfIh4D4AQ%26usg%3DAFQjCNFyWZI6-rX1cxyhwP89rwgsCeArJg%26bvm%3Dbv.53077864%2Cd.bmk; uuid=b67cea737a3248b8aae6894d35babe89; tracking_data=%7B%22user_uuid%22%3A%2298af8647-a00c-4f7b-a53f-b053b309048a%22%7D; _change_session=78b745e60f03baef6311e1e889945481; __utma=1.47658276.1380120301.1380120301.1380120301.1; __utmb=1.5.9.1380120746617; __utmc=1; __utmz=1.1380120301.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); ki_u=a783efc8-33fa-3e2c-3746-972a978909b8; ki_t=1380120330422%3B1380120330422%3B1380120764755%3B1%3B3; last_logged_in_as=63733729; register_user_data_with_mixpanel=true; __utmv=1.|2=Medium=(none)=1; ga_first_visit=%7B%22Source%22%3A%22(direct)%22%2C%22Campaign%22%3A%22(direct)%22%2C%22Medium%22%3A%22(none)%22%7D; after_initial_sign_flow=true; prompted_petitions=true; mp_30aa26a1d6e93ae158dfbdc16b493312_mixpanel=%7B%22distinct_id%22%3A%20%2298af8647-a00c-4f7b-a53f-b053b309048a%22%2C%22petition_id%22%3A%20%22petition_981567%22%2C%22own_petition%22%3A%20false%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.change.org%2Fid%2Fpetisi%2Fdinas-pendidikan-jember-kejaksaan-negeri-jember-jawa-timur-dalam-kasus-korupsi-laptop-rp-9-milyar-guru-jangan-dikorbankan%22%2C%22%24initial_referring_domain%22%3A%20%22www.change.org%22%2C%22id%22%3A%20%22user_63733729%22%2C%22city%22%3A%20%22%22%2C%22state%22%3A%20%22%22%2C%22zipcode%22%3A%20%2268165%22%2C%22country_code%22%3A%20%22ID%22%2C%22incomplete_address%22%3A%20true%2C%22signup_date%22%3A%20%222013-09-25%22%2C%22login_count%22%3A%201%2C%22total_actions%22%3A%200%2C%22connected_to_facebook%3F%22%3A%20false%2C%22gender%22%3A%20null%2C%22age_range%22%3A%20null%2C%22signup_context%22%3A%20%22signup%22%7D
+Connection: keep-alive
+If-None-Match: "59f99e0de8bec1c316b211037779b076"
+Cache-Control: max-age=0
+
+
+
+HTTP/1.1.200 OK
+ket : Respon
+===============================================================================================================
+server:nginx/1.2.6
+ket : nama server
+===============================================================================================================
+Date: Wed, 25 Sept 2013 15:06:19 GMT 
+ket : tanggal dan waktu saat menerima respon
+===============================================================================================================
+Content-Type:text/html; charset=utf-8
+ket : tulisan berupa text/html
+===============================================================================================================
+Status : 200 OK
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+ket :  adalah untuk cross-domain AJAX permintaan, browser akan memeriksa header yang sebelum mengizinkan Anda untuk mengirim permintaan AJAX dari domain yang berbeda
+===============================================================================================================
+Access-Control-Allow-Credentials;true
+Access-Control-Max-Age: 17228000
+X-UA-Compatible IE=Edege,chrome=1
+Etag "2cbd869dwhg2eghgdvh32e343b3"
+Chace-Control must-revalidate, private, max-age=0
+Set-Cookie tracking _data=%7B%22user_uuid%22%3A%2298af8647-a00c-4f7b-a53f-b053b309048a%22%7D;path=/;expires=Wed,01-Jan-2020 06:00:00 GMT
+Set-Cookie_change_session=78b745e60f03baef6311e1e889945481;domain-=.change.org;path=/;expires=Wed,25-Sep-2013 15:51:19 GMT;HttpOnly
+ket : situs web yang dikunjungi
+Set-Cookie: preiview _beta_web_pages=; path=/;expired=Thu,01-Jan-1970 00:00:00 GMT
+X-Request-Id
+X-Runtime: 1.483106
+X-Rack-Chace: miss
+x-change-server;production-change_main-app-metal-08
+Content-Encoding:gzip
+Via:1.1 J5K-2(Jaguar/3.0-11)
+Connection: close
